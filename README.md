@@ -1,4 +1,5 @@
-# Recovery-of-gold-from-Ore.
+
+## Recovery-of-gold-from-Ore.
 
 Prepare a prototype of a machine learning model for "Digits". The company is developing solutions for efficient operation of industrial enterprises.
 
